@@ -6,12 +6,12 @@
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=baxa073">
     <img src="https://github-profile-trophy.vercel.app/?username=baxa073" alt="baxa073" />
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Hamkor Lizing](https://hamkor-lizing.uz)
+- 🔭 I’m currently working on **Hamkor Lizing**
 
 - 🌱 I’m currently learning **Flutter, Bloc**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/bahodir-buxorov-19bb79271/" target="_blank">
+  <a href="https://linkedin.com/in/bahodir-buxorov-19bb79271" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
   <a href="https://instagram.com/bahodir.buxoriy" target="_blank">
@@ -51,4 +51,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxa073&show_icons=true&locale=en&layout=compact" alt="baxa073" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxa073&show_icons=true&locale=en" alt="baxa073" /></p>
-
