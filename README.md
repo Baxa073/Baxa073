@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **Flutter, Bloc**
 
-- 💬 Ask me about **Dart, Flutter**
-
 - 📫 How to reach me **buxorovbahodir11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
